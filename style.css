@@ -1,0 +1,19 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 400;
+}
+span{
+    color: orange;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+}
+.half img{
+    width: 100%;
+}
